@@ -1,0 +1,15 @@
+### CYLINDER PROPERTIES
+
+Mass of empty cylinder (m1) = 16 kg
+Mass of gas (m2) = 12 kg
+Total mass (m = m1 + m2) = 28 kg
+The volume of the cylinder = 21 m3
+Filling time for cylinder = 75 seconds
+Flowrate (Qin) = 45 m3/hr
+
+
+### GAS PROPERTIES
+
+Density of the gas (ρ) = 0.564 kmol/m3
+Molecular weight (M.W) = 22.695 kg/kmol
+Filling temperature (T) = 273 K

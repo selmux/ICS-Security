@@ -1,0 +1,91 @@
+clear all
+clc
+
+global V Qin0 rho MW R T time0
+
+%% VARIABLES USED IN THE SYSTEM
+V = 0.937; %volume of the cylinder (m3)
+rho=0.564; %density of the gas (kmol/m3)
+R=8.3151*10^-2; %Gas constant (bar. m3/kmol.K)
+T=378; %temperature (Kelvin)
+MW=22.695; %molecular weight of the Gas (kg/kmol)
+Qin0=45/3600; %flowrate of the gas (m3/sec)
+time0=75; %filling time
+
+
+%% CHANGES IN GAS FLOWRATE
+for i=1:20
+    Q_in(i)=Qin0*(0.9+i/100);
+    y_flow(:,i)=cylinder_cal_flow(Q_in(i));
+end
+
+
+%% CHANGES IN FILLING TIME
+%change in filling time
+for i=1:20
+    time(i)=time0*(0.9+i/100);
+    y_time(:,i)=cylinder_cal_time(time(i));
+end
+
+%
+% %% Plotting Graphs Case I
+% %Mass vs Flow
+% plot(Q_in*3600,y_flow(1,:),'-');
+% xlabel('Gas Flowrate (m3/hr)') % x-axis label
+% ylabel('Mass (kg)') % y-axis label
+% xlim([41 49.5])
+% ylim([26.9 29.5])
+
+%Presure vs Flow
+% plot(Q_in*3600,y_flow(2,:),'-',Q_in*3600,y_flow(3,:));
+% xlabel('Mass (m3/hr)') % x-axis label
+% ylabel('Pressure (bar)') % y-axis label
+% xlim([41 49.5])
+% ylim([15.49 18.6])
+y_flow(3,:) = y_flow(2,:)+[0 0 0 0 0 0 0 0 randn(1,12)*.4];
+
+subplot(1,2,1)
+plot(Q_in*3600,y_flow(2,:),'-',Q_in*3600,y_flow(3,:),'*');
+xlabel('Mass (m3/hr)') % x-axis label
+ylabel('Pressure (bar)') % y-axis label
+xlim([41 49.5])
+ylim([15.49 18.6])
+
+
+y_flow(3,:) = y_flow(2,:)+[0 0 0 0 0 0 0 0 0 .001 .002 .004 .008 .016 .032 .064 0.128 0.256 0.512 1.024];
+subplot(1,2,2)
+plot(Q_in*3600,y_flow(2,:),'-',Q_in*3600,y_flow(3,:),'*');
+xlabel('Mass (m3/hr)') % x-axis label
+ylabel('Pressure (bar)') % y-axis label
+xlim([41 49.5])
+ylim([15.49 20])
+
+% %Mass vs Pressure
+% plot(y_flow(1,:),y_flow(2,:),'-');
+% xlabel('Mass (m3/hr)') % x-axis label
+% ylabel('Pressure (bar)') % y-axis label
+% xlim([26.9 29.5])
+% ylim([15.49 18.6])
+%
+%
+% %% Plotting Graphs Case II
+% %Mass vs Flow
+% plot(Q_in*3600,y_time(1,:),'-');
+% xlabel('Gas Flowrate (m3/hr)') % x-axis label
+% ylabel('Mass (kg)') % y-axis label
+% xlim([41 49.5])
+% ylim([26.9 29.5])
+%
+% %Presure vs Flow
+% plot(Q_in*3600,y_time(2,:),'-');
+% xlabel('Mass (m3/hr)') % x-axis label
+% ylabel('Pressure (bar)') % y-axis label
+% xlim([41 49.5])
+% ylim([15.49 18.6])
+%
+% %Mass vs Pressure
+% plot(y_flow(1,:),y_time(2,:),'-');
+% xlabel('Mass (m3/hr)') % x-axis label
+% ylabel('Pressure (bar)') % y-axis label
+% xlim([26.9 29.5])
+% ylim([15.49 18.6])
