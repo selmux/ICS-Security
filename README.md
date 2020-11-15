@@ -15,7 +15,7 @@ https://github.com/arnaudsoullie/ics-default-passwords
 
 2- Gas/Cylinder Matlab model
 
-I created this model during my doctorate research program. The files are in the "Gas_model" folder. 
+I created this model during my doctorate research program. The files are in the "Gas Model" folder. 
 
  Many projects are coming . Stay tuned  !
 
