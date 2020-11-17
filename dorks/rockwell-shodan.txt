@@ -40,3 +40,5 @@ port:44818  // not all are Rockwell  , however most of them are !
 "1756-EN2T"
 "1756-EN2TR"
 "1756-EN3TR"
+
+Tip: nmap --script enip-info -sU -p 44818 <host>   // edit port/host
