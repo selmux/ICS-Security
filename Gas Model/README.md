@@ -9,7 +9,7 @@ Files:
 
 Aim and goal:
 
-This project can be used to simulate physical properties (ICS) and can be used to develop cyber threat modeling scenarios.
+This project can be used to simulate physical propertie of ICS (industrial control systems) and can be used to develop cyber threat modeling scenarios or testbeds.
 
 Requirement: You need a software (eg. Matlab/Simulink)to run this code. 
 
