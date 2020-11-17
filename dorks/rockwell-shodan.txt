@@ -1,0 +1,42 @@
+This file contains filters that I have developed, to find "Rockwell" devices especially PLCs.
+These filters mainly target : MicroLogix 1400  and CompactLogix . however they find other Rockwell products as well !
+The file is a contribution to the ICS security community.
+Sulaiman Alhasawi , @alhasawi
+
+
+### broad Rockwell products
+
+“Allen-Bradley”
+“Rockwell Automation “
+"Rockwell Automation" "Programmable Logic Controller"
+"Allen-Bradley" "Programmable Logic Controller"
+"Rockwell Automation/Allen-Bradley"
+port:44818  // not all are Rockwell  , however most of them are !
+
+
+
+### MicroLogix 1400
+
+"1766-L32BWA B/16.00"
+"1766-L32BWA B/15.00"
+"1769-L30ER/A LOGIX5330ER"
+"1766-L32BXBA B/15.00"
+"1766-L32BWAA B/15.00"
+"1766-L32BXBA B/11.00"
+"1766-L32BWAA B/14.00"
+
+
+
+### CompactLogix
+
+" 1769-L30ER/A LOGIX5330ER"
+"1769-L24ER-QBFC1B/A LOGIX5324ER"
+"2080-LC20-20AWB"
+"1769-L24ER-QB1B"
+
+"1769-L30ER"
+"1769-L30ER-NSE"
+"1769-L33ER"
+"1756-EN2T"
+"1756-EN2TR"
+"1756-EN3TR"
