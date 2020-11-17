@@ -21,8 +21,7 @@ I created this model during my doctorate research program. The files are in the 
 
 A list of filters/keywords to find ICS devices in search engines
 
- Many projects are coming . Stay tuned  !
-
+ 
  Sulaiman Alhasawi
  @alhasawi
  http://zerontek.com
