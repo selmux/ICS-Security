@@ -21,7 +21,8 @@ I created this model during my doctorate research program. The files are in the 
 
 A list of filters/keywords to find ICS devices in search engines
 
- 
+4- Metasploit Modules for ICS
+
  Sulaiman Alhasawi
  @alhasawi
  http://zerontek.com
