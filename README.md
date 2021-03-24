@@ -23,6 +23,8 @@ A list of filters/keywords to find ICS devices in search engines
 
 4- Metasploit Modules for ICS
 
+5- ICS exploits and files in Exploit database
+
  Sulaiman Alhasawi
  @alhasawi
  http://zerontek.com
