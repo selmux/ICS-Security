@@ -25,7 +25,8 @@ A list of filters/keywords to find ICS devices in search engines
 
 5- ICS exploits and files in Exploit database
 
-6- Wireshark filters for ICS protocols 
+
+4- Wireshark filters for ICS protocols 
 
  Sulaiman Alhasawi
  @alhasawi
