@@ -1,0 +1,11 @@
+bvlc || bacnet || bacapp
+bacnet
+bacnet.mesgtyp
+bvlc
+bvlc.function == 0x0b
+bacapp
+bacapp.confirmed_service == 12
+bacapp.confirmed_service == 15
+bacapp.unconfirmed_service == 0
+bacapp.unconfirmed_service == 8
+bacapp.unconfirmed_service == 2	
