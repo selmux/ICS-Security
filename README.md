@@ -1,5 +1,5 @@
 # ICS Security
- Project Name: ICS security resources
+ Project Name: ICS security 
 
  This project is all about ICS Security. In an effort to contribute to the ICS community.
 
@@ -23,11 +23,9 @@ A list of filters/keywords to find ICS devices in search engines
 
 4- Metasploit Modules for ICS
 
-<<<<<<< HEAD
-5- Wireshark filters for ICS protocols 
-=======
 5- ICS exploits and files in Exploit database
->>>>>>> f3b1321a347847bd41a49de73155de72f5665340
+
+6- Wireshark filters for ICS protocols 
 
  Sulaiman Alhasawi
  @alhasawi
