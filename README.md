@@ -21,10 +21,9 @@ I created this model during my doctorate research program. The files are in the 
 
 A list of filters/keywords to find ICS devices in search engines
 
-4- Metasploit Modules for ICS (Soon)
+4- Metasploit Modules for ICS 
 
-5- ICS exploits and files in Exploit database (Soon)
-
+5- ICS exploits and files in Exploit database 
 
 6- Wireshark filters for ICS protocols 
 
