@@ -1,0 +1,51 @@
+"BACnet Broadcast Management Device"
+(bbmd)
+A7810-0
+A8812-1
+AAM-Router
+BACnet Broadcast Management Device
+BCM-Eth Controller
+CV20
+Carel BACnet Gateway
+DSM_RTR
+DXR2.E09-1
+Description: BACnet
+Description: BACnet device
+Description: Local BACnet Device object
+EY-AS525F001
+G5CE
+IQ4E
+LGR1000
+LGR25
+LT-ARM
+Local BACnet Device object
+M4-SNE22000-0
+MACH-ProSys
+ME812u-LGR
+MS-NAE3510-
+MS-NAE3510-2
+MS-NCE
+Model Name: iVu-
+Niagara4 Station
+PV19
+PXC100-E.D + PXA40-W1 / HW=V3.00
+PXC22-E.D
+PXG3.W100
+PXGMS UPS
+PowerMeter and Energy Meter
+Quantum BACnet
+Siemens BACnet Field Panel
+Siemens Building Technologies
+SmartStruxure
+Tracer SC+
+WC20
+XT-RB
+bCX1-CR
+bacnet
+bbmd
+eBCON
+eBMGR
+iVu Open Link
+model=Compass
+model=Kieback&Peter DDC4000
+port:47808
