@@ -23,6 +23,8 @@ A list of filters/keywords to find ICS devices in search engines
 
 7- ICSFile : A tool to search for ICS file extensions
 
+8- icsfinder : This tool checks for open ICS ports for a given host .
+
  Sulaiman Alhasawi
  @alhasawi
  http://zerontek.com
