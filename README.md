@@ -1,5 +1,5 @@
 # ICS Security
- Project Name: ICS security 
+ **Project Name: ICS security** 
 
  This project is all about ICS Security. In an effort to contribute to the ICS community.
 
