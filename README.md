@@ -11,7 +11,7 @@ I created two separate  wordlist files for both  usernames and passwords . I wil
 
 I created this model during my doctorate research program. The files are in the model folder.
 
-3- Dorks
+3- Dorks: Find ICS devices in search engines ! [ABB , BACnet, fuel tank, knx , moxa, opcua, rockwell, spacelynk, spidercontrol, tekon, wago, yokogawa]
 
 A list of filters/keywords to find ICS devices in search engines
 
