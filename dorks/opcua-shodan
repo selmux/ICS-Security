@@ -11,3 +11,5 @@ http://opcfoundation.org
 http://PLCopen.org/OpcUa
 
 Text:OPC
+
+Port:4840 opc
