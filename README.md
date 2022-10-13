@@ -12,7 +12,7 @@ I created two separate  wordlist files for both  usernames and passwords . I wil
 I created this model during my doctorate research program. The files are in the model folder.
 
 3- Dorks: Find ICS devices in search engines :bomb: :warning: 
-* SHodan : ABB , BACnet, fuel tank, knx , moxa, opcua, rockwell, spacelynk, spidercontrol, tekon, wago, yokogawa
+* Shodan : ABB , BACnet, fuel tank, knx , moxa, opcua, rockwell, spacelynk, spidercontrol, tekon, wago, yokogawa
 * Censys : ATG, BACNET, CITRIX, CODESYS, DIGI, DNP3, EIP, FINS, FOX, GE_SRTP, IEC61850_5_104, MODBUS, PCWORX, PRO_CON_OS, S7, WDRPC
 
 4- Metasploit Modules for ICS 
