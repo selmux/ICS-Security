@@ -29,6 +29,6 @@ A list of filters/keywords to find ICS devices in search engines
 
  Sulaiman Alhasawi
  
- @alhasawi
+ Twitter: @alhasawi
  
- http://zerontek.com
+ www: http://zerontek.com
