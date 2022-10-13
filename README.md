@@ -1,5 +1,5 @@
 # ICS Security
- Project Name: ICS security 
+ **Project Name: ICS security** 
 
  This project is all about ICS Security. In an effort to contribute to the ICS community.
 
@@ -11,9 +11,9 @@ I created two separate  wordlist files for both  usernames and passwords . I wil
 
 I created this model during my doctorate research program. The files are in the model folder.
 
-3- Dorks: Find ICS devices in search engines ! [ABB , BACnet, fuel tank, knx , moxa, opcua, rockwell, spacelynk, spidercontrol, tekon, wago, yokogawa]
-
-A list of filters/keywords to find ICS devices in search engines
+3- Dorks: Find ICS devices in search engines :bomb: :warning: 
+* Shodan : ABB , BACnet, fuel tank, knx , moxa, opcua, rockwell, spacelynk, spidercontrol, tekon, wago, yokogawa
+* Censys : ATG, BACNET, CITRIX, CODESYS, DIGI, DNP3, EIP, FINS, FOX, GE_SRTP, IEC61850_5_104, MODBUS, PCWORX, PRO_CON_OS, S7, WDRPC
 
 4- Metasploit Modules for ICS 
 
@@ -26,5 +26,7 @@ A list of filters/keywords to find ICS devices in search engines
 8- icsfinder : This tool checks for open ICS ports for a given host .
 
  Sulaiman Alhasawi
- @alhasawi
- http://zerontek.com
+ 
+ Twitter: @alhasawi
+ 
+ www: http://zerontek.com
