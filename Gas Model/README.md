@@ -15,6 +15,6 @@ Requirement: You need a software (eg. Matlab/Simulink)to run this code.
 
 Enjoy !
 
- Sulaiman Alhasawi
- http://zerontek.com
- @alhasawi
+ Authors: 
+ - Sulaiman Alhasawi
+ - Abhilash Nair
