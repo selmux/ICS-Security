@@ -9,7 +9,7 @@ I created two separate  wordlist files for both  usernames and passwords . I wil
 
 2- Gas/Cylinder Matlab model
 
-I created this model during my doctorate research program. The files are in the model folder.
+I created (co-author) this model during my doctorate research program. The files are in the model folder.
 
 3- Dorks: Find ICS devices in search engines :bomb: :warning: 
 * Shodan : ABB , BACnet, conpot, fuel tank, knx , moxa, opcua, rockwell, siemens, spacelynk, spidercontrol, tekon, wago, yokogawa
