@@ -3,13 +3,13 @@ product:"Conpot"
 s7 port:502 product:"Conpot" tag:honeypot      // Enterprise accounts only 
 tag:honeypot
 
-s7 port:502 product:"Conpot"         // Conpot honeypot
+s7 port:502 product:"Conpot"         
 s7 port:502 product:"Conpot" tag:honeypot      // Enterprise accounts only
 tag:honeypot                                   // Enterprise accounts only
-SIMATIC product:"Conpot"                       // Conpot honeypot
+SIMATIC product:"Conpot"                       
 S7 product:"Conpot"
 SIMATIC product:"Conpot"
-Siemens product:"Conpot"                            // Conpot honeypot
+Siemens product:"Conpot"                            
 
 SIMATIC S7 product:"Conpot" 
 
