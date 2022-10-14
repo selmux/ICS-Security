@@ -1,0 +1,32 @@
+
+port:102
+port:161 s7                          // snmp
+port:161 SIMATIC
+port:161 Siemens
+port:502 Siemens 
+port:502 SIMATIC
+port:502  s7                        // Modbus
+SIMATIC S7
+s7 port:502 product:"OpenSSH" 
+
+s7 port:502 product:"Conpot"         // Conpot honeypot
+s7 port:502 product:"Conpot" tag:honeypot      // Enterprise accounts only
+tag:honeypot                                   // Enterprise accounts only
+SIMATIC product:"Conpot"                       // Conpot honeypot
+S7 product:"Conpot"
+SIMATIC product:"Conpot"
+Siemens product:"Conpot"                            // Conpot honeypot
+
+SIMATIC S7-300
+S7-300 product:"pysnmp"
+SIMATIC S7-300 port:502               // Modbus
+SIMATIC S7-300 port:161               // snmp
+SIMATIC S7 product:"pysnmp"
+SIMATIC S7 product:"Conpot"           // Conpot honeypot 
+
+SIMATIC S7-200
+SIMATIC S7-200 product:"pysnmp" 
+SIMATIC S7-200 product:"Conpot"       // Conpot honeypot
+SIMATIC S7-200 port:161               // snmp
+SIMATIC S7-200 port:502               // Modbus
+
