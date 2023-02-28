@@ -23,7 +23,9 @@ I created (co-author) this model during my doctorate research program. The files
 
 7- ICSFile : A tool to search for ICS file extensions
 
-8- icsfinder : This tool checks for open ICS ports for a given host .
+8- icsfinder : This tool checks for open ICS ports for a given host 
+
+9- Nmap ICS-OT Scripts : A collection ICS/OT Nmap scripts
 
  Sulaiman Alhasawi
  
