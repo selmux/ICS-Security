@@ -27,6 +27,8 @@ I created (co-author) this model during my doctorate research program. The files
 
 9- Nmap ICS-OT Scripts : A collection ICS/OT Nmap scripts
 
+10- A curated list of resources that I recommend for those interested in learning about Industrial Control Systems Cyber Security. 
+
  Sulaiman Alhasawi
  
  Twitter: @alhasawi
