@@ -1,6 +1,6 @@
 # ICS/OT Simulations and Tools
 
-This repository contains a collection of simulations and tools for Industrial Control Systems (ICS) and Operational Technology (OT). These resources are designed to assist researchers, engineers, and enthusiasts in understanding, testing, and securing ICS/OT systems.
+This repository contains a collection of simulations and testbeds for Industrial Control Systems (ICS) and Operational Technology (OT). These resources are designed to assist researchers, engineers, and enthusiasts in understanding, testing, and securing ICS/OT systems.
 
 ## Simulations
 
