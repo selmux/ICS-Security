@@ -29,6 +29,8 @@ I created (co-author) this model during my doctorate research program. The files
 
 10- A curated list of resources that I recommend for those interested in learning about Industrial Control Systems Cyber Security. 
 
+11- ICS/OT Simulation & TestBed 
+
  Sulaiman Alhasawi
  
  Twitter: @alhasawi
