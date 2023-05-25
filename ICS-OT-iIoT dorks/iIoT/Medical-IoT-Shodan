@@ -1,1 +1,7 @@
 MedDream
+
+html:Softneta     // MedDream medical devices
+
+port:104 Dicom    // medical "TAG" devices in Shodan 
+
+http.title:"ClickView 7i Login Page"  // CLICKVIEW is a radiology-structured ultrasound reporting software.
