@@ -5,4 +5,4 @@ http.title:Teltonika           // Teltonika Networks
 http.html:"Login failed! Check  your username & password"     // InHand Networks
 http.html:"MOXA OnCell"       // Moxa
 http.html:"ETIC TELECOM"      // ETIC Telecom 
-http.title:"Inhand Router"   // Inland Networks
+http.title:"Inhand Router"   // Inhand Networks
