@@ -4,6 +4,10 @@ product:"AirPlay" version:"680.23.1"
 
 product:samsung http // Samsung smart TV
 
+port:9080 http.favicon.hash:902521196  // Netflix
 
+chromecast    // Google Chromecast
+
+Chromecast port:"8008" // Google Chromecast
 
 
