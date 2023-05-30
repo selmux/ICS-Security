@@ -1,0 +1,5 @@
+port:1883 "MQTT Connection Code"
+
+port:8883 "MQTT Connection Code" 
+
+port:1883 Fronius        # Fronius - Generic solar energy
