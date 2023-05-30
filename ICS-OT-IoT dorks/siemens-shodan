@@ -30,3 +30,5 @@ SIMATIC S7-200 product:"Conpot"       // Conpot honeypot
 SIMATIC S7-200 port:161               // snmp
 SIMATIC S7-200 port:502               // Modbus
 
+Server: "Microsoft-WinCE" Content-Length: 12581   // Siemens HVAC Controllers
+
