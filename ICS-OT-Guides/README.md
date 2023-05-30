@@ -5,3 +5,5 @@
 - [ICS Security Geek](https://github.com/Ka0sKl0wN/ICS-Security-Study-Resources)
 
 - [Roadmap and Resources for Starting a Career in OT/ICS/SCADA Security](https://www.linkedin.com/posts/manjunathhiregange_otsecurity-otcybersecurity-icssecurity-activity-7043800232131788800-FA-W/?utm_source=share&utm_medium=member_android)
+
+- [Awesome Resources for Critical Infrastructure, OT, ICS, SCADA, IIoT Cybersecurity - A Living Document](https://www.linkedin.com/pulse/awesome-resources-critical-infrastructure-living-document-gary-kong%3FtrackingId=sxWYC%252BWhS1SWg14wlwBwuw%253D%253D/?trackingId=sxWYC%2BWhS1SWg14wlwBwuw%3D%3D)
