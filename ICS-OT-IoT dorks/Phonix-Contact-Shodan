@@ -1,0 +1,7 @@
+Visu+ Web Client        # SCADA visualization system
+
+port:1962 PLC           # PCWorxs
+
+PLC Type: AXC
+
+PLC Type: ILC           # ILC controllers PCWorxs
