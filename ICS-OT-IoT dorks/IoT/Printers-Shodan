@@ -6,7 +6,7 @@ title:"syncthru web service" // Samsung Printers
 
 title:"web image monitor" // Ricoh printers
 
-"Location: /main/main.html" debut   // brother printer
+"Location: /main/main.html" debut   // Brother printer
 
 DATA ARRIVE /POWER SAVE // OKI printers
 
