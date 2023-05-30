@@ -1,3 +1,5 @@
-product:"AirPlay"
+product:"AirPlay". // Apple Airplay
 
 product:"AirPlay" version:"680.23.1"
+
+product:samsung http // Samsun smart TV
