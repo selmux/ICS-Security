@@ -4,6 +4,8 @@ html:Softneta     // MedDream medical devices
 
 port:104 Dicom    // medical "TAG" devices in Shodan 
 
+"DICOM Server Response" port:104  // DICOM Medical X-Ray Machines
+
 http.title:"ClickView 7i Login Page"  // CLICKVIEW is a radiology-structured ultrasound reporting software.
 
 http.html:"Marco Pacs"       // Medical pictures software
