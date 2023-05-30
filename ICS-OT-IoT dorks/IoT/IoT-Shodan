@@ -2,4 +2,6 @@ product:"AirPlay". // Apple Airplay
 
 product:"AirPlay" version:"680.23.1"
 
-product:samsung http // Samsun smart TV
+product:samsung http // Samsung smart TV
+
+title:"syncthru web service" // Samsung Printers
