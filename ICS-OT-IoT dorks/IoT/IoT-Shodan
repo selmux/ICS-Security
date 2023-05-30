@@ -7,3 +7,9 @@ product:samsung http // Samsung smart TV
 title:"syncthru web service" // Samsung Printers
 
 "Serial Number:" "Built:"   // HP Printers
+
+"HP-ChaiSOE"  // HP LaserJet
+
+title:"web image monitor" // Ricoh printers
+
+"Location: /main/main.html" debut   // brother printer
