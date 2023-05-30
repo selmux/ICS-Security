@@ -8,3 +8,9 @@ moxa product:"Moxa Technologies Co., Ltd."
 
 "Moxa Nport Device" Status: Authentication disabled port:"4800"
 
+title:'NPort web console'
+
+MoxaHttp
+
+port:4800 'OnCell'
+
