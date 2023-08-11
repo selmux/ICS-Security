@@ -32,3 +32,7 @@ SIMATIC S7-200 port:502               // Modbus
 
 Server: "Microsoft-WinCE" Content-Length: 12581   // Siemens HVAC Controllers
 
+Ruggedcom
+
+RX1400            // Ruggedcom 
+
