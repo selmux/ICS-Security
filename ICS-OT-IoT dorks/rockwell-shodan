@@ -27,8 +27,8 @@ port:44818  // not all are Rockwell  , however most of them are !
 
 
 
-### CompactLogix
-
+### CompactLogix 5370
+product name:1769-
 " 1769-L30ER/A LOGIX5330ER"
 "1769-L24ER-QBFC1B/A LOGIX5324ER"
 "2080-LC20-20AWB"
@@ -40,5 +40,17 @@ port:44818  // not all are Rockwell  , however most of them are !
 "1756-EN2T"
 "1756-EN2TR"
 "1756-EN3TR"
+
+### Compact GuardLogix 5370 
+product name:1769-
+1769-L30ERMS
+1769-L33ERMS
+1769-L36ERMS
+
+### ControlLogix 5570
+product name:1756-
+
+### GuardLogix 5570
+product name:1756-
 
 Tip: nmap --script enip-info -sU -p 44818 <host>   // edit port/host
