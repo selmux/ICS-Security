@@ -53,4 +53,9 @@ product name:1756-
 ### GuardLogix 5570
 product name:1756-
 
+
+### Network Adapter
+1734-AENTR
+
+
 Tip: nmap --script enip-info -sU -p 44818 <host>   // edit port/host
