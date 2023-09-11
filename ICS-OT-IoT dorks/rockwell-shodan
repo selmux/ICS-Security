@@ -57,5 +57,8 @@ product name:1756-
 ### Network Adapter
 1734-AENTR
 
+### Flex EtherNet/IP Adaptor
+1794-AENT
+
 
 Tip: nmap --script enip-info -sU -p 44818 <host>   // edit port/host
