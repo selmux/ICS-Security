@@ -13,7 +13,12 @@ Sulaiman Alhasawi , @alhasawi
 "Rockwell Automation/Allen-Bradley"
 port:44818  // not all are Rockwell  , however most of them are !
 
-
+#### MicroLogix 1100
+product name:1763-
+1763-L16BWA
+1763-L16AWA
+1763-L16BBB
+1763-L16DWD
 
 ### MicroLogix 1400
 
