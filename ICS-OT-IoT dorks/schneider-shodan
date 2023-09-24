@@ -2,3 +2,6 @@ Schneider
 
 clearScada     // doesn’t show Schneider name
 
+SCADAPack     // Modbus-centric Smart RTU
+
+Modicon 
