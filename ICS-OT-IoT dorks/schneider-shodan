@@ -7,3 +7,5 @@ SCADAPack     // Modbus-centric Smart RTU
 RemoteConnect RTU  // SCADAPack RemoteConnect
 
 Modicon 
+
+Vijeo      // Vijeo Citect Historian
