@@ -1,0 +1,15 @@
+// use this dork,   service:"modbus"
+DNP3
+ethernetip-1
+ge-srtp
+HART-IP
+iec 60870-5-104
+lantronix
+lantronix-config
+Modbus
+niagara-fox
+pcworx
+proconos
+s7
+smux
+vertx-edge
