@@ -1,0 +1,79 @@
+// Usage:   app:"filter-name"
+
+3M Filtrete 3M-50 thermostat http config  
+ADT sightcube ics device httpd  
+Advantech ADAM-4570 ics device httpd  
+Advantech ADAM-4571L ics device httpd  
+Ambient Weather ObserverIP http config  
+ASI Controls ics device httpd  
+ATOP Serial Server ics device httpd  
+Bachmann M1 PLC httpd  
+Bellwin power-misc httpd  
+CHIYU BF430 ics device httpd  
+CHIYU CHIYU ics device httpd  
+Cobham Sea Tel ics device httpd  
+Crestron DIN-AP2 automation system text ui  
+DEOS AG OPEN EMS System ics device httpd  
+Digital Loggers Web Power Switch  
+Digitronic Digiweb httpd  
+egnite Ethernut ics device ftpd  
+Elster EnergyICT RTU  
+emtronix EM9260  
+Endress+Hauser Fieldgate FXA520  
+Friend Spring P743 Ethernet Module ics device httpd  
+GEOTECH INSTRUMENTS SMART-24 ics device httpd  
+ICP DAS ics device httpd  
+ICP DAS tDS-700 ics device httpd  
+Metavert ics device httpd  
+Microhard IPn4Gb customer-perimises equipment httpd  
+Microsemi Vitesse ics device httpd  
+Mitsubishi iQ-R PLC ftpd  
+Mitsubishi Q-series PLC ftpd  
+Moxa NPort 5110 serial-to-IP converter telnetd  
+Moxa NPort 5130A serial-to-IP converter telnetd  
+Moxa NPort 5150 serial-to-IP converter telnetd  
+Moxa NPort 5210A serial-to-IP converter telnetd  
+Moxa NPort 5230 serial-to-IP converter telnetd  
+Moxa NPort 5230A serial-to-IP converter telnetd  
+Moxa NPort 5610-16 serial-to-IP converter telnetd  
+Moxa NPort 5630-16 serial-to-IP converter telnetd  
+Moxa NPort 5650-16 serial-to-IP converter telnetd  
+Moxa NPort 5650-8-DT serial-to-IP converter telnetd  
+Moxa NPort IA-5250 serial-to-IP converter telnetd  
+Moxa NPort IA5450A serial-to-IP converter telnetd  
+Moxa Remote IO ics device httpd  
+Moxa serial to IP http config  
+Moxa sshd  
+MoxaHttp  
+NDT httpd  
+Omron CJ1W PLC ftpd  
+Omron CJ2B PLC ftpd  
+Omron CJ2M PLC ftpd  
+Omron PLC http config  
+RockWell Allen-Bradley 1763-L16AWA ics device httpd  
+RockWell Allen-Bradley 1763-L16BBB ics device httpd  
+RockWell Allen-Bradley 1763-L16BWA ics device httpd  
+RockWell Allen-Bradley 1766-L32AWA ics device httpd  
+RockWell Allen-Bradley 1766-L32AWAA ics device httpd  
+RockWell Allen-Bradley 1766-L32BWA ics device httpd  
+RockWell Allen-Bradley 1766-L32BWAA ics device httpd  
+RockWell Allen-Bradley 1766-L32BXB ics device httpd  
+RockWell Allen-Bradley 1766-L32BXBA ics device httpd  
+Rockwell MicroLogix 1100 ics device httpd  
+Sanyo PLC-XU300 projector http config  
+Schneider ics device httpd  
+Schneider Electric U.Motion Builder  
+Siemens LOGO! 8 PLC httpd  
+Siemens Simatic S7-1200 PLC httpd  
+Siemens Simatic S7-300 PLC httpd  
+SIEMENS SIMATIC ics device httpd  
+Sprecher Automation SPRECON-E-C,PU-2433  
+TAKAOKA TOKO STiNCII ics device httpd  
+TANDD TR-701NW ics device httpd  
+Tektronix oscilloscope http viewer  
+Trane Trace SC ics device httpd  
+Trimble NetR9 ics-device httpd  
+xtide Tide prediction httpd  
+Yello Strom Sparzaehler electricity meter httpd  
+Zlgmcu MCU httpd  
+
