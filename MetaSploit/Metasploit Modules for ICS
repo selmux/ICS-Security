@@ -3,49 +3,46 @@ The following   keywords if typed in https://www.rapid7.com/db/ will
 yield ICS Metasploit modules . I will update this list when I discover
 new keywords.
 
-3s
+abb  
+advantech  
+bacnet  
+beckhoff  
+citect  
+codesys  
+delta  
+D20  
+DirectLOGIC  
+ethernet/ip  
+FactoryLink  
+General Electric  
+Genesis32  
+Hmi  
+iconics  
+igss  
+indusoft  
+koyo  
+ladder logic  
+Measuresoft  
+modbus  
+Modicon  
+moxa  
+OPC Client  
+Operator Workstation  
+phoenixcontact  
+Plc  
+ProConOS  
+procyon  
+realwin  
+Rockwell  
+Scada  
+ScadaPro  
+schneider  
+sielco sistemi  
+Siemens  
+start/stop  
+TwinCat  
+Unitronics  
+Winlog  
+yokogawa  
+3s  
 7-Technologies
-D20
-DirectLOGIC
-FactoryLink
-General Electric
-Genesis32
-Hmi
-Measuresoft
-Modbus
-OPC Client
-Operator Workstation
-Plc
-ProConOS
-Rockwell
-Scada
-ScadaPro
-Siemens
-TwinCat
-Unitronics
-Winlog
-abb
-advantech
-bacnet
-beckhoff
-citect
-codesys
-delta
-ethernet/ip
-factorylink
-ge
-iconics
-igss
-indusoft
-koyo
-ladder logic
-modbus
-modicon
-moxa
-phoenixcontact
-procyon
-realwin
-schneider
-sielco sistemi
-start/stop
-yokogawa
