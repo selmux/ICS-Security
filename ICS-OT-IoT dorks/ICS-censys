@@ -1,3 +1,44 @@
 
-
 not services.truncated: true and services.service_name: {ATG, BACNET, CITRIX, CODESYS, DIGI, DNP3, EIP, FINS, FOX, GE_SRTP, IEC61850_5_104, MODBUS, PCWORX, PRO_CON_OS, S7, WDRPC}
+services.software.vendor: {Bosch, schneider-electric, siemens, Tridium,tridium }
+
+// service_name=`service_name` 
+
+ATG
+BACNET
+CITRIX
+CODESYS
+DIGI
+DNP3
+EIP
+FINS
+FOX
+GE_SRTP
+IEC61850_5_104
+MODBUS
+PCWORX
+PRO_CON_OS
+S7
+WDRPC
+
+// services.software.vendor=`vendor`
+
+Bosch
+schneider-electric
+siemens
+Tridium
+tridium
+
+
+// services.software.product=`product`
+
+ecostruxure_building_operation
+Niagara 4
+niagara4
+Niagara AX
+
+
+
+
+
+
