@@ -26,6 +26,7 @@ protocol="lantronix_config"
 
 
 app="Honeywell-XL-Web-Controller"
+app="MW100"
 app="RA-Allen-Bradley-1766-L32BWA"
 app="RA-MicroLogix-1400"
 app="RA-SCADA-PLC"
