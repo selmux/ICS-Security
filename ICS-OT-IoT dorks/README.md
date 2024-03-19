@@ -19,9 +19,9 @@ This project is the result of collaborative efforts by cybersecurity professiona
 - [Contributor Name 1](GitHubProfileLink)
 - [Contributor Name 2](GitHubProfileLink)
 - [Contributor Name 3](GitHubProfileLink)
-- [Sulaiman Alhasawi]
+- [Sulaiman Alhasawi] (https://zerontek.com)
 
-We are deeply grateful for their contributions and commitment to improving cybersecurity research tools.
+We are deeply grateful for their contributions and commitment to improving ICS/OT cybersecurity research tools.
 
 ## Contributing
 
