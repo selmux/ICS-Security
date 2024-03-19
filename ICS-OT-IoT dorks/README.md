@@ -39,7 +39,7 @@ Your contributions are not only welcome but essential to keep this project valua
 
 ## License
 
-[MIT License] - Please see the LICENSE file for details.
+[MIT License](https://opensource.org/licenses/MIT)
 
 ## Contact
 
