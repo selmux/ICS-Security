@@ -25,13 +25,15 @@ We are deeply grateful for their contributions and commitment to improving ICS/O
 
 ## Contributing
 
-We welcome contributions from the cybersecurity community. If you have suggestions for additional search filters, improvements to existing ones, or any other enhancements, please contribute by:
+We welcome contributions from the cybersecurity community. If you have suggestions for new search filters or improvements to existing ones, please contribute by following these steps:
 
-1. **Forking the Project**: Fork the project to your own GitHub account.
-2. **Creating a Feature Branch**: Create a branch for your feature (`git checkout -b feature/YourFeatureName`).
-3. **Committing Your Changes**: Commit your changes (`git commit -m 'Add some amazing feature'`).
-4. **Pushing to the Branch**: Push to your feature branch (`git push origin feature/YourFeatureName`).
-5. **Opening a Pull Request**: Open a pull request against our main branch for review.
+1. **Fork the Project**: Fork the project to your own GitHub account.
+2. **Edit the Relevant File**: Navigate to the file you wish to contribute to, and click the edit button (pencil icon) to make your changes directly in your fork.
+3. **Describe Your Changes**: In the commit message, provide a clear description of the changes you've made. Add your dork or improvement with a brief explanation of its purpose or benefit.
+4. **Submit a Pull Request**: Once your changes are committed, submit a pull request to our repository for review. In the pull request, please detail the nature of your contribution and how it adds value.
+
+Your contributions will undergo a review process, and if approved, they will be merged into the project. This collaborative approach helps us maintain the quality and relevance of our content, ensuring it remains a valuable resource for the community.
+
 
 Your contributions are not only welcome but essential to keep this project valuable and up-to-date. Together, we can make a significant impact on the security and visibility of ICS, OT, and IIoT systems worldwide.
 
