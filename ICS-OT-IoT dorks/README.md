@@ -43,7 +43,7 @@ Your contributions are not only welcome but essential to keep this project valua
 
 ## Contact
 
-For any queries or further discussions, feel free to contact the project maintainers at [alhasawi@gmail.com].
+For any queries or further discussions, feel free to contact the project maintainers at alhasawi@gmail.com
 
 ---
 
