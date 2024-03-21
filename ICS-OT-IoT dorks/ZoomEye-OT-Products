@@ -49,7 +49,8 @@ MoxaHttp
 NDT httpd  
 Omron CJ1W PLC ftpd  
 Omron CJ2B PLC ftpd  
-Omron CJ2M PLC ftpd  
+Omron CJ2M PLC ftpd 
+Phoenix Contact httpd
 Omron PLC http config  
 RockWell Allen-Bradley 1763-L16AWA ics device httpd  
 RockWell Allen-Bradley 1763-L16BBB ics device httpd  
