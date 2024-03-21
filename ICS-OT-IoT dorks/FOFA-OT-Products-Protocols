@@ -34,6 +34,9 @@ app="RA-1766-L32BXB”.
 app="Yokogawa-Device-CA"
 app="Yokogawa-Electric-DX1000/2000"
 app="PHOENIX_CONTACT-PLC"
+app="PHOENIX_CONTACT-pcworx"
+app="PHOENIX_CONTACT-proconos"
+app="PHOENIX_CONTACT-ILC-151-GSM"
 app="WAGO-Web-Based-Management” 
 app="SIEMENS-SIMATIC-PCS7"
 app="Schneider-CitectSCADA"
@@ -41,6 +44,7 @@ app="Schneider-TM221CE16R"
 
 product="Industrial-Control-Products"
 product="PHOENIX_CONTACT-PLC"
+product="PHOENIX_CONTACT-AXC-1050"
 product="3S_Smart_Software-Products"
 product="Automated_Logic-Company-Products"
 product="MOXA-Nport-Devices"
