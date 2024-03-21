@@ -6,7 +6,8 @@ Advantech ADAM-4570 ics device httpd
 Advantech ADAM-4571L ics device httpd  
 Ambient Weather ObserverIP http config  
 ASI Controls ics device httpd  
-ATOP Serial Server ics device httpd  
+ATOP Serial Server ics device httpd
+AXC 1050
 Bachmann M1 PLC httpd  
 Bellwin power-misc httpd  
 CHIYU BF430 ics device httpd  
