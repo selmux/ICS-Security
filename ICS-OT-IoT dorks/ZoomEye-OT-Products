@@ -30,7 +30,8 @@ Metavert ics device httpd
 Microhard IPn4Gb customer-perimises equipment httpd  
 Microsemi Vitesse ics device httpd  
 Mitsubishi iQ-R PLC ftpd  
-Mitsubishi Q-series PLC ftpd  
+Mitsubishi Q-series PLC ftpd
+"Modicon M340" +port:161
 Moxa NPort 5110 serial-to-IP converter telnetd  
 Moxa NPort 5130A serial-to-IP converter telnetd  
 Moxa NPort 5150 serial-to-IP converter telnetd  
