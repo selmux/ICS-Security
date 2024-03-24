@@ -40,6 +40,7 @@ app="PHOENIX_CONTACT-ILC-151-GSM"
 app="WAGO-Web-Based-Management” 
 app="SIEMENS-SIMATIC-PCS7"
 app="Schneider-CitectSCADA"
+app="Schneider-ClearSCADA"
 app="Schneider-TM221CE16R"
 
 product="Industrial-Control-Products"
