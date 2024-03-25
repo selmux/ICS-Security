@@ -1,6 +1,12 @@
-
+// Sources : Sulaiman ALhasawi , thehappydinoa@github 
 not services.truncated: true and services.service_name: {ATG, BACNET, CITRIX, CODESYS, DIGI, DNP3, EIP, FINS, FOX, GE_SRTP, IEC61850_5_104, MODBUS, PCWORX, PRO_CON_OS, S7, WDRPC}
 services.software.vendor: {Bosch, schneider-electric, siemens, Tridium,tridium }
+
+(same_service(port: 10001 and banner: "IN-TANK INVENTORY") or services.service_name: ATG) and services.truncated: false
+services.http.response.html_title: "Nordex Control" or services.tls.certificates.leaf_data.issuer.domain_component: "NORDEX-AG"
+services.http.response.html_title: "XZERES Wind"
+services.http.response.headers.server: "EIG Embedded Web Server"
+services.http.response.html_title: "CAREL Pl@ntVisor"
 
 // services.service_name=`service_name` 
 
