@@ -78,7 +78,8 @@ TAKAOKA TOKO STiNCII ics device httpd
 TANDD TR-701NW ics device httpd  
 Tektronix oscilloscope http viewer  
 Trane Trace SC ics device httpd  
-Trimble NetR9 ics-device httpd  
+Trimble NetR9 ics-device httpd
+XLWeb2
 xtide Tide prediction httpd  
 Yello Strom Sparzaehler electricity meter httpd  
 Zlgmcu MCU httpd  
