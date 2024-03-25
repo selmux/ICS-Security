@@ -1,0 +1,9 @@
+http.title:”WinCC”     // Siemens WinCC
+modbus:*
+modbus.mei_response.objects.vendor:”Schneider Electric”
+\*.banner:Siemens
+\*.banner:”Rockwell Automation”
+\*.banner:”SCALANCE S615”
+s7.plant_id:”MHC*”        // find factories 
+whois.net.name:(factory OR plant)      // find companies or factoris , then group by whois.net.description field
+whois.net.description:"Dongguan-shoe-factory-Houjie-santun-Kui-Hee, Dongguan, Guangdong province"
