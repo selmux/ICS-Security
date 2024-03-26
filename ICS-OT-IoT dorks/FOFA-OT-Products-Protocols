@@ -21,6 +21,7 @@ protocol="iec"
 protocol="smux"
 protocol="secure-fox"
 protocol="lantronix_config"
+app="Trend-IQ3xcite"
 
 // ICS/OT Apps/Products:
 
