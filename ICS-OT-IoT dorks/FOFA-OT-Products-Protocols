@@ -21,7 +21,6 @@ protocol="iec"
 protocol="smux"
 protocol="secure-fox"
 protocol="lantronix_config"
-app="Trend-IQ3xcite"
 
 // ICS/OT Apps/Products:
 
@@ -45,6 +44,7 @@ app="Schneider-ClearSCADA"
 app="Schneider-Modicon-M340"
 app="Schneider-Modicon-M580"
 app="Schneider-TM221CE16R"
+app="Trend-IQ3xcite"
 
 product="Industrial-Control-Products"
 product="PHOENIX_CONTACT-PLC"
