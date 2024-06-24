@@ -13,3 +13,4 @@
 - [The PLC Professor YouTube Channel](https://www.youtube.com/@plcprofessor)
 - [RealPars](https://www.youtube.com/@realpars)
 - [Control and Control Design ](https://www.youtube.com/@ControlControlDesign)
+- [Graphical Realism Framework for Industrial Control Simulation (GRFICS)  ](https://github.com/Fortiphyd/GRFICSv2)
