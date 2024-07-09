@@ -48,3 +48,10 @@ For any queries or further discussions, feel free to contact the project maintai
 ---
 
 This project is not affiliated with Shodan, Censys, ZoomEye, Google, or FOOFA. All product names, logos, and brands are property of their respective owners. Use of these names, logos, and brands does not imply endorsement.
+
+<h2>Support Me</h2>
+<p>If you've found my ICS security tools and ICSrank.com useful, consider buying me a coffee! Your support helps me continue developing innovative solutions to enhance OT device security and keep our infrastructure safe. Thank you! ☕🔒</p>
+<a href="https://buymeacoffee.com/alhasawi" target="_blank">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee">
+</a>
+
