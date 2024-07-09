@@ -14,3 +14,10 @@
 - [RealPars](https://www.youtube.com/@realpars)
 - [Control and Control Design ](https://www.youtube.com/@ControlControlDesign)
 - [Graphical Realism Framework for Industrial Control Simulation (GRFICS)  ](https://github.com/Fortiphyd/GRFICSv2)
+
+
+<h2>Support Me</h2>
+<p>If you've found my ICS security tools and ICSrank.com useful, consider buying me a coffee! Your support helps me continue developing innovative solutions to enhance OT device security and keep our infrastructure safe. Thank you! ☕🔒</p>
+<a href="https://buymeacoffee.com/alhasawi" target="_blank">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee">
+</a>
