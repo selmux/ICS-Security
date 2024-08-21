@@ -1,4 +1,5 @@
 **Learn ICS/OT Cyber Security:**
+- [Discovering ICS/OT Devices on the Internet: Sulaiman Alhasawi's Series](https://zerontek.com/zt/category/ot-hunt/)
 
 - [Information Trust Institute ](https://github.com/ITI/ICS-Security-Tools/tree/master/guides)
 
